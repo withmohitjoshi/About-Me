@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @withmohitjoshi
-- 👀 I’m interested in ReactJs, Front end development, Flutter App development
-- 🌱 I’m currently learning Flutter, ReactJs, Front end development
+- 👋 Hi, I’m Mohit Joshi @withmohitjoshi
+- 🌱 I’m currently learning and working on ReactJs, JavaScript, Front end development
+- 👀 I’m also interested in Flutter App development, Graphics designing
 - 📫 How to reach me https://www.linkedin.com/in/withmohitjoshi
+- 
 
 <!---
 withmohitjoshi/withmohitjoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
